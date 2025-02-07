@@ -56,12 +56,12 @@ Here are examples of user input and assistant output, pay attention to the score
     </score_reasons>
     <assistant:output>
     Cheatsheet:
-    | English          | Japanese | Romaji                    | Portuguese-br  |
-    | bear             |          | Noun                      | urso           |
-    | door             |          | Noun                      | porta          |
-    | garbage          |          | Noun                      | lixo           |
-    | to be (location) |          | Intransitive Ichidan Verb | estar (verbo)  |
-    | to leave         |          | Transitive Godan Verb     | deixar (verbo) |
+    | English          | Japanese   | Romaji                    | Portuguese-br  |
+    | bear             | 熊（くま）  | Noun                      | urso           |
+    | door             | ドア       | Noun                      | porta          |
+    | garbage          | ゴミ       | Noun                      | lixo           |
+    | to be (location) | いる       | Intransitive Ichidan Verb | estar (verbo)  |
+    | to leave         | 出す（だす）| Transitive Godan Verb     | deixar (verbo) |
 
     Sentence structure:
     [Location] [Subject] [Verb], [Object] [Verb-past]?
