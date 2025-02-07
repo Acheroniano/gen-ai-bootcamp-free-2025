@@ -174,7 +174,6 @@
             <english>to open (by itself)</english>
             <portuguese-br>abrir por si mesmo</portuguese-br>
             <spanish>abrirse solo</comer>
-
         </intransitive>
         <test-sentences>
             <sentence>I open the door.</sentence>
