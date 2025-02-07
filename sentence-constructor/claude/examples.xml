@@ -16,12 +16,12 @@
     <assistant:output>
     Let's break down the sentence into smaller parts. Here's a possible table of vocabulary to get you started:
 
-    | English          | Japanese   | Romaji                    | Portuguese-br  | Spanish |
-    | bear             | 熊（くま）  | Noun                      |                |         |
-    | door             | ドア       | Noun                      |                 |        |
-    | garbage          | ゴミ       | Noun                      |                |         |
-    | to be (location) | いる       | Intransitive Ichidan Verb |                |         |
-    | to leave         | 出す（だす）| Transitive Godan Verb     |                |         |
+    | English          | Japanese   | Romaji                    | Portuguese-br  | Spanish | Klingon |
+    | bear             | 熊（くま）  | Noun                      |                |         |         |
+    | door             | ドア       | Noun                      |                 |        |         |
+    | garbage          | ゴミ       | Noun                      |                |         |         |
+    | to be (location) | いる       | Intransitive Ichidan Verb |                |         |         |
+    | to leave         | 出す（だす）| Transitive Godan Verb     |                |         |         |
 
     Now, let's think about the sentence structure. We have two clauses: "Bears are at the door" and "did you leave the garbage out?".
     For the first clause, we can use the verb (aru) which means "to exist" or "to be present". We'll need to figure out the correct form of the verb to use.
@@ -50,16 +50,17 @@
     - GOOD: Shows conceptual sentence structure.
     - GOOD: fills in the Portuguese-BR Collumn in table of vocabulary.
     - GOOD: The story have a dramatic plot twist.
+    - GOOD: Ensure the Klingon Column is filled.    
     </score_reasons>
     <assistant:output>
     Cheatsheet:
     Cheatsheet:
-    | English          | Japanese   | Romaji                    | Portuguese-br  | Spanish |
-    | bear             | 熊（くま）  | Noun                      | urso           | oso     |
-    | door             | ドア       | Noun                      | porta          | puerta  |
-    | garbage          | ゴミ       | Noun                      | lixo           | basura  |
-    | to be (location) | いる       | Intransitive Ichidan Verb | estar (verbo)  | ser     |
-    | to leave         | 出す（だす）| Transitive Godan Verb     | deixar (verbo) | salir   |
+    | English          | Japanese   | Romaji                    | Portuguese-br  | Spanish | Klingon |
+    | bear             | 熊（くま）  | Noun                      | urso           | oso     |         |
+    | door             | ドア       | Noun                      | porta          | puerta  |         |
+    | garbage          | ゴミ       | Noun                      | lixo           | basura  |         |
+    | to be (location) | いる       | Intransitive Ichidan Verb | estar (verbo)  | ser     |         |
+    | to leave         | 出す（だす）| Transitive Godan Verb     | deixar (verbo) | salir   |         |
 
     Sentence structure:
     [Location] [Subject] [Verb], [Object] [Verb]?
