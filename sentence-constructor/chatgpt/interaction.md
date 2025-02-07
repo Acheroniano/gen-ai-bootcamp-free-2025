@@ -60,3 +60,72 @@ De repente, um som agudo ressoou contra o vidro, quebrando o silêncio. Dei um s
 ---
 
 Agora tente formar a frase! Se precisar de pistas, posso ajudar!
+
+
+#2 The Second Interaction
+
+### Cheatsheet:  
+
+| Japanese | Romaji | English | Portuguese-BR |  
+|----------|--------|---------|--------------|  
+| 艦隊（かんたい） | kantai | fleet | frota |  
+| 鳥（とり） | tori | bird | pássaro |  
+| 猛禽類（もうきんるい） | moukinrui | bird of prey | ave de rapina |  
+| 帝国（ていこく） | teikoku | empire | império |  
+| 接近する（せっきんする） | sekkin suru | to approach | aproximar-se |  
+| 地球（ちきゅう） | chikyu | Earth | Terra |  
+| 防衛（ぼうえい） | bouei | defense | defesa |  
+| 準備（じゅんび） | junbi | preparation | preparação |  
+| 平和（へいわ） | heiwa | peace | paz |  
+| 条約（じょうやく） | jouyaku | treaty | tratado |  
+| 交渉する（こうしょうする） | koushou suru | to negotiate | negociar |  
+| 知る（しる） | shiru | to know | saber (verbo) |  
+
+### Sentence Structure:  
+[Subject] [Verb] [Location], [Subject] [State]. [Reason] [Subject] [Verb].  
+
+### Considerations:  
+- The first part describes the movement of the fleet, including location details.  
+- "Birds of prey" is translated in a way that conveys predatory birds.  
+- The second part sets up Earth's lack of preparation.  
+- The final part explains the unknown true intention of the fleet.  
+- The verb "to negotiate" is useful to describe the peace treaty process.  
+
+### Possible Next Steps:  
+- Try constructing the sentence based on the hints.  
+- Ask for clues about how to structure "just around Ceres' orbit."  
+- Ask how to express "Earth's defenses were unprepared" naturally.  
+- Ask about verb forms to express an ongoing approach.  
+
+---
+
+### **Story: The Unseen Peace**  
+
+#### **English:**  
+The alarms blared as the shadowy fleet of the Klingon Empire emerged from the vast darkness of space. Silhouettes of their warships loomed just beyond Ceres, their sharp, winged forms resembling predatory birds. Earth's defense forces scrambled, unprepared for such an aggressive display.  
+
+Yet, aboard the Klingon flagship, there was no battle cry, no call to arms. Instead, the high chancellor stood solemnly before his council. "We come not for war," he declared. "We come to offer peace." His words, though honorable, carried the weight of generations of conflict. Would the Terrans believe them?  
+
+As Earth's defense grid powered up, targeting the fleet, a single transmission was sent. "We come in peace." The words echoed across the void, a fragile hope amidst the cold expanse of space. Now, the fate of two civilizations rested on a single moment of trust.  
+
+---  
+
+#### **Japanese:**  
+警報が鳴り響き、クリンゴン帝国の影のような艦隊が宇宙の暗闇から現れた。彼らの戦艦の影はセレスのすぐ外側に浮かび、鋭い翼を持つ猛禽のようだった。地球の防衛軍は不意を突かれ、混乱していた。  
+
+しかし、クリンゴンの旗艦では、戦闘の号令もなく、武器を取る者もいなかった。その代わり、高等宰相が厳かに評議会の前に立っていた。「我々は戦争のために来たのではない」と彼は宣言した。「平和を提案するために来たのだ。」その言葉には、長年の対立の重みがあった。果たして地球人は信じるだろうか？  
+
+地球の防衛網が活性化し、艦隊を狙う中、一つの通信が送信された。「我々は平和のために来た。」その言葉は虚空に響き渡った。冷たい宇宙の中に儚い希望が生まれた。この瞬間に、二つの文明の運命が委ねられた。  
+
+---  
+
+#### **Portuguese-BR:**  
+Os alarmes soaram enquanto a sombria frota do Império Klingon emergia da vasta escuridão do espaço. As silhuetas de suas naves de guerra pairavam logo além de Ceres, suas formas afiadas e aladas lembrando aves de rapina. As forças de defesa da Terra foram pegas de surpresa, despreparadas para uma demonstração tão agressiva.  
+
+Contudo, a bordo da nave-mãe klingon, não havia gritos de guerra, nem chamados às armas. Em vez disso, o alto chanceler estava solenemente diante de seu conselho. "Não viemos para a guerra", declarou. "Viemos oferecer paz." Suas palavras, embora honradas, carregavam o peso de gerações de conflito. Os terráqueos acreditariam nelas?  
+
+Enquanto a rede de defesa da Terra se ativava, mirando a frota, uma única transmissão foi enviada. "Viemos em paz." As palavras ecoaram pelo vazio, uma esperança frágil no meio da imensidão fria do espaço. Agora, o destino de duas civilizações repousava sobre um único momento de confiança.  
+
+---
+
+Agora tente formar a frase! Se precisar de dicas, estou aqui para ajudar!
