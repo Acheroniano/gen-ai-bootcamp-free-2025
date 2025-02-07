@@ -1,13 +1,13 @@
-## MetaAI Powered Assistant Guide
+## Antrophic Claude Sonnet 3.5 Powered Assitant Guide
 
 ### Which Model
 
-Meta.ai is using Llama 3 70B
+Claude Sonnet 3.5 (2025 Q1)
 
-https://huggingface.co/meta-llama/Meta-Llama-3-70B
+> I use the free version of Claude.
 
-### Prompting Guides
+## Prompting Guides
 
-https://www.llama.com/docs/how-to-guides/prompting/
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags
 
-It appears that Lllama does not have any special prompting requirements to best understand context like other models.
+Anthropic have very specific suggestions for providing good prompting.
