@@ -109,19 +109,22 @@
                 <japanese>暑い</japanese>
                 <romaji>atsui</romaji>
                 <english>hot</english>
-                <portuguese-br>bebo</portuguese-br>
-                <spanish>bebo</comer>
-
+                <portuguese-br>quente</portuguese-br>
+                <spanish>caliente</comer>
             </word>
             <word>
                 <japanese>飲む</japanese>
                 <romaji>nomu</romaji>
                 <english>drink</english>
+                <portuguese-br>bebo</portuguese-br>
+                <spanish>bebo</comer>
             </word>
             <word>
                 <japanese>水</japanese>
                 <romaji>mizu</romaji>
                 <english>water</english>
+                <portuguese-br>água</portuguese-br>
+                <spanish>agua</comer>
             </word>
         </vocabulary>
         <structure>[Reason] [Subject] [Object] [Verb].</structure>
@@ -162,11 +165,16 @@
             <japanese>開ける</japanese>
             <romaji>akeru</romaji>
             <english>to open (something)</english>
+            <portuguese-br>abri</portuguese-br>
+            <spanish>abrir</comer>
         </transitive>
         <intransitive>
             <japanese>開く</japanese>
             <romaji>aku</romaji>
             <english>to open (by itself)</english>
+            <portuguese-br>abrir por si mesmo</portuguese-br>
+            <spanish>abrirse solo</comer>
+
         </intransitive>
         <test-sentences>
             <sentence>I open the door.</sentence>
