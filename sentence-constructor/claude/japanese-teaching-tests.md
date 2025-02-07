@@ -19,6 +19,8 @@
                 <japanese>パン</japanese>
                 <romaji>pan</romaji>
                 <english>bread</english>
+                <portuguese-br>pão</portuguese-br>
+                <spanish>pan</comer>
             </word>
         </vocabulary>
         <structure>[Subject] [Object] [Verb].</structure>
@@ -35,11 +37,15 @@
                 <japanese>本</japanese>
                 <romaji>hon</romaji>
                 <english>book</english>
+                <portuguese-br>livro</portuguese-br>
+                <spanish>libro</comer>
             </word>
             <word>
                 <japanese>赤い</japanese>
                 <romaji>akai</romaji>
                 <english>red</english>
+                <portuguese-br>vermelho</portuguese-br>
+                <spanish>rojo</comer>
             </word>
         </vocabulary>
         <structure>[Subject] [Adjective].</structure>
