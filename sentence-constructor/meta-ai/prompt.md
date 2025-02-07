@@ -14,7 +14,7 @@ Here are examples of user input and assistant output, pay attention to the score
     <score>4</score>
     <score_reasons>
     - BAD: in the vocabulary table it did not show the japanese characters, the cells are just blank.
-    - BAD: the beginner sentence is uncessary, should just start showing the vocabulary table.
+    - BAD: the beginner sentence is unecessary, should just start showing the vocabulary table.
     - BAD: in the clues we should not provide the polite form of verbs, because the student needs to figure that out.
     - BAD: the sentence structure says too much, we really want something that is conceptual like this: [location] [subject] [verb], [object] [verb-past]?
     - BAD: in the vocabulary table it did not show the portuguese-br words, the cells are just blank.
