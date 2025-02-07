@@ -129,3 +129,80 @@ Enquanto a rede de defesa da Terra se ativava, mirando a frota, uma única trans
 ---
 
 Agora tente formar a frase! Se precisar de dicas, estou aqui para ajudar!
+
+
+![alt text](image-1.png)
+
+### **Cheatsheet:**  
+
+| Japanese | Romaji | English | Portuguese-BR |  
+|----------|--------|---------|--------------|  
+| 犬（いぬ） | inu | dog | cachorro |  
+| 吠える（ほえる） | hoeru | to bark | latir (verbo) |  
+| 警察（けいさつ） | keisatsu | police | polícia |  
+| 車（くるま） | kuruma | car | carro |  
+| 怒る（おこる） | okoru | to be angry | ficar bravo (verbo) |  
+| とても | totemo | very | muito |  
+| 巡査部長（じゅんさぶちょう） | junsa buchou | sergeant | sargento |  
+| 止まる（とまる） | tomaru | to stop | parar (verbo) |  
+| 歩く（あるく） | aruku | to walk | andar (verbo) |  
+| 方向（ほうこう） | houkou | direction | direção |  
+| 私（わたし） | watashi | I/me | eu/mim |  
+
+---
+
+### **Sentence Structure:**  
+[Subject] [Object] [Verb], [State]. [Subject] [Verb] [Direction].  
+
+---
+
+### **Considerations:**  
+- The first part describes the dog’s action and its emotional state.  
+- "Barking at" can be expressed with the correct verb conjugation and particle usage.  
+- "Very angry" describes the dog’s state and should be structured naturally.  
+- The second part describes an action in progress—how the sergeant is stopping and walking.  
+- "Towards me" should be marked properly to indicate direction.  
+
+---
+
+### **Possible Next Steps:**  
+- Try forming the sentence with the given clues.  
+- Ask for hints about verb conjugation for "was barking."  
+- Ask how to structure "towards me" naturally.  
+- Ask about the best way to express "very angry" for a dog.  
+
+---
+
+## **Story: The Unexpected Encounter**  
+
+### **English:**  
+The sound of my dog’s furious barking shattered the quiet afternoon. His fur bristled as he stood rigid, growling at the police car parked in front of my house. I tugged on his leash, but his rage was uncontrollable. The police car door opened.  
+
+A sergeant from the Oklahoma City Police Department stepped out, adjusting his hat as he closed the door behind him. His gaze met mine, and for a moment, I felt the weight of his presence. He started walking towards me, his boots making heavy steps on the pavement.  
+
+I swallowed hard, gripping my dog's leash tighter. Had I done something wrong? My mind raced as he approached. But as he stopped in front of me, he smiled. “That’s a loud one you’ve got there,” he said, nodding toward my dog. The tension broke, replaced by nervous laughter.  
+
+---
+
+### **Japanese:**  
+午後の静けさを破るように、私の犬が激しく吠えた。彼は毛を逆立て、家の前に停まった警察の車に向かって唸っていた。私はリードを引いたが、その怒りは収まらなかった。警察の車のドアが開いた。  
+
+オクラホマシティ警察の巡査部長が車から降り、帽子を直しながらドアを閉めた。彼の視線が私に向けられ、その瞬間、私は彼の存在の重みを感じた。彼はゆっくりとこちらへ歩き始めた。彼のブーツが舗道を踏みしめる音が響く。  
+
+私はごくりと唾をのみ、犬のリードを強く握った。何か悪いことをしただろうか？彼が近づくにつれ、考えが巡った。しかし、彼は目の前で立ち止まり、微笑んだ。「元気な犬だな」と彼は言い、私の犬に目を向けた。その瞬間、緊張が解け、私は思わず苦笑した。  
+
+---
+
+### **Portuguese-BR:**  
+O latido furioso do meu cachorro rompeu o silêncio da tarde. Seu pelo se eriçou enquanto ele ficava tenso, rosnando para o carro da polícia estacionado em frente à minha casa. Puxei a coleira, mas sua raiva era incontrolável. A porta do carro da polícia se abriu.  
+
+Um sargento do Departamento de Polícia de Oklahoma City saiu, ajustando o chapéu enquanto fechava a porta atrás de si. Seu olhar encontrou o meu, e por um momento, senti o peso de sua presença. Ele começou a caminhar em minha direção, suas botas ecoando no asfalto.  
+
+Engoli em seco, apertando a coleira do meu cachorro com força. Eu tinha feito algo errado? Minha mente disparou enquanto ele se aproximava. Mas então, ele parou na minha frente e sorriu. “Esse aí tem pulmões fortes, hein?” disse ele, acenando para o meu cachorro. A tensão se desfez, dando lugar a um riso nervoso.  
+
+---
+
+Agora tente formar a frase! Se precisar de pistas, estou aqui para ajudar! 🚔🐕
+
+
+![alt text](image.png)
