@@ -67,6 +67,8 @@
                 <japanese>食べる</japanese>
                 <romaji>taberu</romaji>
                 <english>eat</english>
+                <portuguese-br>comer</portuguese-br>
+                <spanish>comer</comer>
             </word>
             <word>
                 <japanese>パン</japanese>
@@ -77,11 +79,15 @@
                 <japanese>飲む</japanese>
                 <romaji>nomu</romaji>
                 <english>drink</english>
+                <portuguese-br>bebo</portuguese-br>
+                <spanish>bebo</comer>
             </word>
             <word>
                 <japanese>水</japanese>
                 <romaji>mizu</romaji>
                 <english>water</english>
+                <portuguese-br>água</portuguese-br>
+                <spanish>agua</comer>
             </word>
         </vocabulary>
         <structure>[Subject] [Object1] [Verb1], [Object2] [Verb2].</structure>
@@ -103,6 +109,9 @@
                 <japanese>暑い</japanese>
                 <romaji>atsui</romaji>
                 <english>hot</english>
+                <portuguese-br>bebo</portuguese-br>
+                <spanish>bebo</comer>
+
             </word>
             <word>
                 <japanese>飲む</japanese>
