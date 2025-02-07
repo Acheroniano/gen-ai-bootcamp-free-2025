@@ -41,13 +41,17 @@ Considerations:
 - Think about how to list multiple items in Japanese
 
 Story:
+
 English:
+
 In a mysterious castle, a lonely prince dreamed of the perfect dinner. He meticulously arranged golden forks and silver knives on an ancient table, inherited from generations past. As he placed the fruits - apples, bananas, and pineapples - on fine porcelain plates, the magical fruits began to glow, revealing a secret passage beneath the dining room!
 
 Portuguese-br:
+
 Num castelo misterioso, um príncipe solitário sonhava com o jantar perfeito. Ele arrumou meticulosamente garfos dourados e facas prateadas numa mesa antiga, herdada de gerações passadas. Quando ele colocou as frutas - maçãs, bananas e abacaxis - em pratos de porcelana fina, as frutas mágicas começaram a brilhar, revelando uma passagem secreta sob a sala de jantar!
 
 Japanese:
+
 不思議なお城で、寂しい王子が完璧な晩ご飯を夢見ていました。何世代も受け継がれた古いテーブルの上に、金のフォークと銀のナイフを丁寧に並べました。高級な陶器の皿にりんご、バナナ、パイナップルを置いた時、魔法の果物が輝き始め、食堂の下に隠し通路が現れました！
 
 Possible next steps:
@@ -187,13 +191,17 @@ Considerations:
 - Consider which particle marks location
 
 Story:
+
 English:
+
 One peaceful morning, a mysterious second sun appeared in the sky. The people of Earth watched in awe as it slowly turned green, revealing itself as an alien spaceship in disguise!
 
 Portuguese-br:
+
 Numa manhã tranquila, um segundo sol misterioso apareceu no céu. As pessoas da Terra observaram maravilhadas enquanto ele lentamente ficava verde, revelando-se como uma nave alienígena disfarçada!
 
 Japanese:
+
 ある静かな朝、不思議な二つ目の太陽が空に現れました。地球の人々は、それが緑色に変わり、宇宙船の正体を現すのを驚きながら見つめていました！
 
 Possible next steps:
