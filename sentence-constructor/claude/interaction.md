@@ -20,7 +20,7 @@ State: Setup
 
 Cheatsheet:
 
-###### | Japanese    | Romaji    | English   | Portuguese-br | Spanish      | Klingon |
+######    |    Japanese    |    Romaji    |    English    |    Portuguese-br    |    Spanish    |    Klingon    |
 ###### | 晩ご飯      | bangohan   | dinner    | jantar        | cena        | meQpu' |
 ###### | りんご      | ringo      | apple     | maçã          | manzana     | 'epIl |
 ###### | バナナ      | banana     | banana    | banana        | plátano     | banana |
