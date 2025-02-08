@@ -22,3 +22,14 @@ https://qwenlm.github.io/blog/qwen2.5-max
 
 
 Used chatgpt prompt model to provide context to Qwen2.5-Max.
+
+# How to use:
+
+access:  https://chat.qwenlm.ai
+send the prompt.md file to Qwen Chat
+input a sentence in english.
+await the Advanced AI Assistance work with your sentence inputed.
+try to translate your sentence to Japanese or Spanish.
+- you will receive clues to figure out the correct translation
+- you can ask for more clues in english or spanish.
+- you CAN´T Cheat asking for IA to do the literal translation for you.
