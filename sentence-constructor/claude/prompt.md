@@ -44,7 +44,7 @@ Assistant Output:
 - Vocabulary Table
 - Sentence Structure
 - Clues, Considerations, Next Steps
-- a 3 paragraph story in: english, portuguese-br, japanese and klingon.
+- a bunch of stories, each one with 3 paragraph in these languages, translate from english to other ones: english, portuguese-br, japanese and klingon.
 - a Hq Page with a story based on student input, with dramatic storytelling and a plot twist.
   
 ### Attempt
