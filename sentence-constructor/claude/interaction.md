@@ -20,17 +20,17 @@ State: Setup
 
 Cheatsheet:
 
-| Japanese    | Romaji    | English   | Portuguese-br | Spanish      | Klingon |
-| 晩ご飯      | bangohan   | dinner    | jantar        | cena        | meQpu' |
-| りんご      | ringo      | apple     | maçã          | manzana     | 'epIl |
-| バナナ      | banana     | banana    | banana        | plátano     | banana |
-| パイナップル | painappuru | pineapple | abacaxi       | piña        | pineapple |
-| テーブル    | teeburu     | table     | mesa          | mesa        | HablI' |
-| フォーク    | fooku      | fork      | garfo         | tenedor     | baghneQ |
-| ナイフ      | naifu      | knife     | faca          | cuchillo    | taj |
-| 欲しい      | hoshii     | want      | querer        | querer      | Soh |
-| 良い        | yoi        | good/nice | bom/boa       | bueno/buena | QaQ |
-| 置く        | oku        | to put    | colocar       | poner       | pu' |
+###### | Japanese    | Romaji    | English   | Portuguese-br | Spanish      | Klingon |
+###### | 晩ご飯      | bangohan   | dinner    | jantar        | cena        | meQpu' |
+###### | りんご      | ringo      | apple     | maçã          | manzana     | 'epIl |
+###### | バナナ      | banana     | banana    | banana        | plátano     | banana |
+###### | パイナップル | painappuru | pineapple | abacaxi       | piña        | pineapple |
+###### | テーブル    | teeburu     | table     | mesa          | mesa        | HablI' |
+###### | フォーク    | fooku      | fork      | garfo         | tenedor     | baghneQ |
+###### | ナイフ      | naifu      | knife     | faca          | cuchillo    | taj |
+###### | 欲しい      | hoshii     | want      | querer        | querer      | Soh |
+###### | 良い        | yoi        | good/nice | bom/boa       | bueno/buena | QaQ |
+###### | 置く        | oku        | to put    | colocar       | poner       | pu' |
 
 Sentence structure:
 [Object] [Verb], [Location] [Object] [Object] [Object] [Verb]
