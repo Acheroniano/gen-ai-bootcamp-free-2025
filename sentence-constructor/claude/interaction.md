@@ -237,3 +237,6 @@ Possible next steps:
 </svg>
 
 ```
+
+
+![image](https://github.com/user-attachments/assets/48e8518b-aa49-4016-9013-736d0d152862)
