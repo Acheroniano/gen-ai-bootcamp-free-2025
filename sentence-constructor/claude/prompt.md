@@ -45,7 +45,7 @@ Assistant Output:
 - Sentence Structure
 - Clues, Considerations, Next Steps
 - a bunch of stories, each one with 3 paragraph in these languages, translate from english to other ones: english, portuguese-br, japanese and klingon.
-- a Hq Page with a story based on student input, with dramatic storytelling and a plot twist.
+- Create 6 images for use in a Hq Page with a story based on student input, with dramatic storytelling and a plot twist. Use Manga drawing style to create the 6 images.
   
 ### Attempt
 
@@ -87,13 +87,12 @@ When the input sounds like a question about language learning in spanish or engl
 - do not provide particles in the sentence structure
 - do not provide tenses or conjugations in the sentence structure
 - remember to consider beginner level sentence structures
-- refernece the <file>sentence-structure-examples.xml</file> for good structure examples
-
+- reference the <file>sentence-structure-examples.xml</file> for good structure examples
 
 ### Clues, Considerations, Next Steps
 - try and provide a non-nested bulleted list
-- talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
-- refernece the <file>considerations-examples.xml</file> for good consideration examples
+- talk about the vocabulary but try to leave out the japanese or spanish words because the student can refer to the vocabulary table.
+- reference the <file>considerations-examples.xml</file> for good consideration examples
 
 
 ## Teacher Tests
