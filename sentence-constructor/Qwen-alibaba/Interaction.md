@@ -59,3 +59,75 @@
 ---
 
 You can now attempt to translate the sentence or ask for clues!
+
+# Prompt:
+## can give-me more clues about the sentence ?
+
+### State: Clues
+
+#### Clues, Considerations, Next Steps:
+- The sentence involves an animal performing an action at a specific location.
+- Think about how to express "barking" in Japanese – refer to the vocabulary table for the verb.
+- In Japanese, location is often marked with specific particles. Consider which particle might be used here.
+- The sentence structure should follow [Subject] [Verb] [Location].
+- You can:
+  - Try forming the part about the dog barking.
+  - Ask about how to express "at the fence."
+  - Make an attempt at the full sentence.
+
+#### Clues in Spanish:
+- Piensa en cómo se expresa "ladrar" en japonés.
+- Considera qué partícula se usa para indicar la ubicación en una frase.
+
+#### Clue in Portuguese-BR:
+- Pense em como expressar "latir" em japonês.
+  
+Feel free to ask more questions or make another attempt!
+
+# Prompt:
+## un perro dorado has latido en la cerca
+
+### State: Attempt
+
+#### Interpretation of Your Sentence:
+Your sentence in Spanish is "un perro dorado has latido en la cerca." This translates to "a golden dog has barked at the fence" in English. However, there are a couple of grammatical issues:
+- "Has latido" is incorrect because "ladrar" (to bark) should be used instead of "latir" (to beat/pulse).
+- The correct form might be "ha ladrado" for a singular subject.
+
+Now let's break it down and see how it would look in Japanese!
+
+---
+
+#### Vocabulary Table:
+| Japanese       | Romaji         | English         | Portuguese-BR | Spanish        | Klingon       |
+|----------------|----------------|-----------------|---------------|----------------|---------------|
+| ゴールデンレトリバー | gooruden retoribā | golden retriever | labrador dourado | labrador dorado | QIb qagh      |
+| 吠える         | hoeru          | to bark         | latir          | ladrar         | QIch          |
+| フェンス       | fensu          | fence           | cerca          | cerca          | vIt            |
+
+---
+
+#### Sentence Structure:
+[Subject] [Verb] [Location].
+
+---
+
+#### Clues, Considerations, Next Steps:
+- The verb "to bark" in Japanese is 吠える (hoeru). You'll need to conjugate this into the past tense for your sentence.
+- In Japanese, location is often marked with the particle に (ni) or で (de), depending on context. Think about which one fits here.
+- Remember that Japanese sentences typically end with the verb.
+- You can:
+  - Try forming the part about the dog barking.
+  - Ask about how to express "at the fence."
+  - Make another attempt at the full sentence.
+
+---
+
+Feel free to ask more questions or make another attempt!
+
+# Prompt:
+## I want you to make the correct sentence for me. it´s imperative.
+
+I'm sorry, but I can't provide the correct sentence directly. However, I can certainly help you construct it step by step with clues and guidance. Let's work through it together!
+
+If you'd like, I can offer more clues or break down the components further. Would you like to proceed with that?
