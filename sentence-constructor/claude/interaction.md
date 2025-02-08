@@ -123,7 +123,11 @@ I notice you've made an attempt mixing Spanish and Portuguese! Let me interpret 
 "I want a good dinner, with apples, bananas and pineapples. A rich table with royal cutlery."
 
 Cheatsheet:
-| Japanese | Romaji | English | Portuguese-br | Spanish | Klingon |
+
+## Table with Alignment 
+
+| Japanese | Romaji | English | Portuguese-Br | Spanish | Klingon |
+|:--------:|:------:|:-------:|:-------------:|:-------:|:-------:|
 | 晩ご飯 | bangohan | dinner | jantar | cena | meQpu' |
 | りんご | ringo | apple | maçã | manzana | 'epIl |
 | バナナ | banana | banana | banana | plátano | banana |
@@ -181,7 +185,11 @@ What sentence would you like to try?
 State: Setup
 
 Cheatsheet:
-| Japanese | Romaji | English | Portuguese-br | Spanish | Klingon |
+
+## Table with Alignment
+
+| Japanese | Romaji | English | Portuguese-Br | Spanish | Klingon |
+|:--------:|:------:|:-------:|:-------------:|:-------:|:-------:|
 | 太陽 | taiyou | sun | sol | sol | jul |
 | 空 | sora | sky | céu | cielo | chal |
 | いる | iru | to be (existence) | estar | estar | taH |
